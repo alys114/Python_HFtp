@@ -31,6 +31,7 @@ FTP服务器默认地址是:127.0.0.1,端口：21
 执行ftp_client/core/ftp_client
 
 
-#运行截图
-client_test.jpg
-server_test.jpg
+
+# 运行截图
+- client_test.jpg
+- server_test.jpg
